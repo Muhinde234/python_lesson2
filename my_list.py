@@ -16,5 +16,6 @@ my_list.remove(70)
 print(my_list)
 sorted_list = sorted(my_list)
 print(sorted_list)
+print(my_list[3])
 
 
