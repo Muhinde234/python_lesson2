@@ -9,4 +9,7 @@ my_list.append(40)
 print(my_list)
 my_list.insert(1,5)
 print(my_list)
+list=[50,60,70]
+my_list.extend(list)
+print(my_list)
 
