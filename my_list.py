@@ -12,4 +12,6 @@ print(my_list)
 list=[50,60,70]
 my_list.extend(list)
 print(my_list)
+my_list.remove(70)
+print(my_list)
 
